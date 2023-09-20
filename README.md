@@ -3,7 +3,7 @@
 XBBC Whitepaper
 [Whitepaper Version 1.1]
 
-Jaynti Kanani <support@xbbx.info>
+Jaynti Kanani <support@xbbc.info>
 Sandeep Nailwal <marketing@xbbc.info>
 
 
